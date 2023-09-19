@@ -1,0 +1,59 @@
+{
+  "term": "Fall",
+  "year": "2004",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Earth Science",
+      "Geology"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geophysics"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Geochemistry"
+    ],
+    [
+      "Science",
+      "Earth Science",
+      "Oceanography"
+    ]
+  ],
+  "legacy_uid": "1c6c4b25-9a3c-c09f-63b3-e52979d729d2",
+  "instructors": {
+    "content": [
+      "4e9a9cc2-d8a7-ffbd-e5ab-c769c60baba0"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "7b582807-03fa-063c-1363-703cd7e7f1c7",
+    "website": "12-110-sedimentary-geology-fall-2004"
+  },
+  "course_title": "Sedimentary Geology",
+  "course_description": "This course covers sediments in the rock cycle, production of sediments at the Earth's surface, physics and chemistry of sedimentary materials, and scale and geometry of near-surface sedimentary bodies, including aquifers. We will also explore topics like sediment transport and deposition in modern sedimentary environments, burial and lithification, survey of major sedimentary rock types, stratigraphic relationships of sedimentary basins, and evolution of sedimentary processes through geologic time.\n",
+  "department_numbers": [
+    "12"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "12.110",
+  "course_image_thumbnail": {
+    "content": "86c1f4bd-f972-4745-cdb7-59bc334caaf9",
+    "website": "12-110-sedimentary-geology-fall-2004"
+  },
+  "learning_resource_types": [
+    "Image Gallery",
+    "Lecture Notes",
+    "Activity Assignments with Examples"
+  ],
+  "site_uid": "3c68d10a-0577-4e7d-8d9d-1646a9241fef",
+  "site_short_id": "12.110-fall-2004",
+  "title": "Course Metadata"
+}
